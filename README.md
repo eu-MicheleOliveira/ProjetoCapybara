@@ -1,2 +1,3 @@
-# ProjetoCapybara
-Projeto Capybara - Comandos básicos e Seletores
+# Básico do Capybara
+
+ Capybara + Ruby + Cucumber - Comandos básicos e Seletores
